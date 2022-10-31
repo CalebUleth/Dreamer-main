@@ -1,0 +1,27 @@
+.page-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.body{
+    background-image: linear-gradient(rgba(185,1,187,1) 0%, rgba(255,131,0,1) 73%, rgba(254,54,176,1) 100%);
+}
+
+.title{
+    font-size: xx-large;
+    color: white;
+    font-family:'Brush Script MT', cursive;
+}
+
+.date{
+    font-size: x-large;
+    color:black;
+    font-family:'Brush Script MT', cursive;
+}
+
+.layoutOverride{
+    flex-direction: column;
+    flex-flow: column;
+}
